@@ -3,6 +3,11 @@
 
 // Include any default variable overrides here (though functions won't be available)
 
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Wix+Madefor+Display&display=swap');
+
+$headings-font-family: 'roboto', sans-serif;
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
